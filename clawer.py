@@ -8,26 +8,26 @@ from xml.dom import minidom
 
 # 1. 干净的频道列表（已包含您整理的全部核心 ID，并映射了中文标准台名）
 CHANNELS = {
-    "cctv1": "CCTV-1 综合",
-    "cctv2": "CCTV-2 财经",
-    "cctv3": "CCTV-3 综艺",
-    "cctv4": "CCTV-4 中文国际(亚)",
-    "cctv5": "CCTV-5 体育",
-    "cctv5plus": "CCTV-5+ 体育赛事",
-    "cctv6": "CCTV-6 电影",
-    "cctv7": "CCTV-7 国防军事",
-    "cctv8": "CCTV-8 电视剧",
-    "cctvjilu": "CCTV-9 纪录",
-    "cctv10": "CCTV-10 科教",
-    "cctv11": "CCTV-11 戏曲",
-    "cctv12": "CCTV-12 社会与法",
-    "cctv13": "CCTV-13 新闻",
-    "cctvchild": "CCTV-14 少儿",
-    "cctv15": "CCTV-15 音乐",
-    "cctv16": "CCTV-16 奥林匹克",
-    "cctv17": "CCTV-17 农业农村",
-    "cctveurope": "CCTV-4 中文国际(欧)",
-    "cctvamerica": "CCTV-4 中文国际(美)"
+    "cctv1": "CCTV1综合",
+    "cctv2": "CCTV2财经",
+    "cctv3": "CCTV3综艺",
+    "cctv4": "CCTV4中文国际",
+    "cctv5": "CCTV5体育",
+    "cctv5plus": "CCTV5+体育赛事",
+    "cctv6": "CCTV6电影",
+    "cctv7": "CCTV7国防军事",
+    "cctv8": "CCTV8电视剧",
+    "cctvjilu": "CCTV9纪录",
+    "cctv10": "CCTV10科教",
+    "cctv11": "CCTV11戏曲",
+    "cctv12": "CCTV12社会与法",
+    "cctv13": "CCTV13新闻",
+    "cctvchild": "CCTV14少儿",
+    "cctv15": "CCTV15音乐",
+    "cctv16": "CCTV16奥林匹克",
+    "cctv17": "CCTV17农业农村",
+    "cctveurope": "CCTV4欧洲",
+    "cctvamerica": "CCTV4美洲"
 }
 
 def get_date_list():
