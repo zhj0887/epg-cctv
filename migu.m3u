@@ -97,6 +97,9 @@ https://d1t.alwaysdata.net/mgvt/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 https://d1t.alwaysdata.net/mgvt/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="卫视",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
 https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 
