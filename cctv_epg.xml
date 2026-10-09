@@ -831,19 +831,19 @@
   <programme start="20261010114000 +0800" stop="20261010131200 +0800" channel="cctv3">
     <title lang="zh">开门大吉-2026-33</title>
   </programme>
-  <programme start="20261010131200 +0800" stop="20261010142200 +0800" channel="cctv3">
+  <programme start="20261010131200 +0800" stop="20261010142100 +0800" channel="cctv3">
     <title lang="zh">影视留声机-2026-118</title>
   </programme>
-  <programme start="20261010142200 +0800" stop="20261010153100 +0800" channel="cctv3">
+  <programme start="20261010142100 +0800" stop="20261010153100 +0800" channel="cctv3">
     <title lang="zh">跟着春晚游中国（义乌篇）-1</title>
   </programme>
-  <programme start="20261010153100 +0800" stop="20261010170600 +0800" channel="cctv3">
+  <programme start="20261010153100 +0800" stop="20261010170400 +0800" channel="cctv3">
     <title lang="zh">星光大道-2026-49</title>
   </programme>
-  <programme start="20261010170600 +0800" stop="20261010180500 +0800" channel="cctv3">
+  <programme start="20261010170400 +0800" stop="20261010180600 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-555</title>
   </programme>
-  <programme start="20261010180500 +0800" stop="20261010193000 +0800" channel="cctv3">
+  <programme start="20261010180600 +0800" stop="20261010193000 +0800" channel="cctv3">
     <title lang="zh">开门大吉-2026-36</title>
   </programme>
   <programme start="20261010193000 +0800" stop="20261010205400 +0800" channel="cctv3">
@@ -1344,13 +1344,13 @@
   <programme start="20261009173000 +0800" stop="20261009180000 +0800" channel="cctv5">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261009180000 +0800" stop="20261009213000 +0800" channel="cctv5">
+  <programme start="20261009180000 +0800" stop="20261009221900 +0800" channel="cctv5">
     <title lang="zh">WTT中国大满贯2026-混双决赛等</title>
   </programme>
-  <programme start="20261009213000 +0800" stop="20261009220500 +0800" channel="cctv5">
+  <programme start="20261009221900 +0800" stop="20261009225000 +0800" channel="cctv5">
     <title lang="zh">体育世界</title>
   </programme>
-  <programme start="20261009220500 +0800" stop="20261009230000 +0800" channel="cctv5">
+  <programme start="20261009225000 +0800" stop="20261009230000 +0800" channel="cctv5">
     <title lang="zh">篮球公园</title>
   </programme>
   <programme start="20261009230000 +0800" stop="20261010000000 +0800" channel="cctv5">
@@ -1399,13 +1399,13 @@
     <title lang="zh">WTT中国大满贯2026-女双决赛等</title>
   </programme>
   <programme start="20261010150000 +0800" stop="20261010170000 +0800" channel="cctv5">
-    <title lang="zh">2026年中国网球公开赛-女单半决赛</title>
+    <title lang="zh">2026年中国网球公开赛-女单半决赛1</title>
   </programme>
-  <programme start="20261010170000 +0800" stop="20261010200000 +0800" channel="cctv5">
-    <title lang="zh">WTT中国大满贯2026-女单半决赛等</title>
+  <programme start="20261010170000 +0800" stop="20261010190000 +0800" channel="cctv5">
+    <title lang="zh">WTT中国大满贯2026-女单半决赛</title>
   </programme>
-  <programme start="20261010200000 +0800" stop="20261010213000 +0800" channel="cctv5">
-    <title lang="zh">2026中国足球超级联赛-第27轮（成都蓉城—天津津门虎）</title>
+  <programme start="20261010190000 +0800" stop="20261010213000 +0800" channel="cctv5">
+    <title lang="zh">2026年中国网球公开赛-女单半决赛2</title>
   </programme>
   <programme start="20261010213000 +0800" stop="20261010233000 +0800" channel="cctv5">
     <title lang="zh">2026/2027德国足球甲级联赛-第5轮（美因茨—勒沃库森）</title>
@@ -1464,14 +1464,14 @@
   <programme start="20261011170000 +0800" stop="20261011193000 +0800" channel="cctv5">
     <title lang="zh">WTT中国大满贯2026-单打决赛</title>
   </programme>
-  <programme start="20261011193000 +0800" stop="20261011213800 +0800" channel="cctv5">
+  <programme start="20261011193000 +0800" stop="20261011213000 +0800" channel="cctv5">
     <title lang="zh">2026年中国网球公开赛-女单决赛</title>
   </programme>
-  <programme start="20261011213800 +0800" stop="20261011221000 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026年世界田径终极冠军赛 25分钟版</title>
+  <programme start="20261011213000 +0800" stop="20261011232500 +0800" channel="cctv5">
+    <title lang="zh">实况录像-2026年NBA中国赛 独行侠-火箭（录播）</title>
   </programme>
-  <programme start="20261011221000 +0800" stop="20261012001000 +0800" channel="cctv5">
-    <title lang="zh">2026/2027西班牙足球甲级联赛-第8轮（皇家社会—拉科鲁尼亚）</title>
+  <programme start="20261011232500 +0800" stop="20261012012500 +0800" channel="cctv5">
+    <title lang="zh">2026/2027德国足球甲级联赛-第5轮（弗赖堡—沙尔克04）</title>
   </programme>
   <programme start="20261009003500 +0800" stop="20261009010600 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
@@ -1546,7 +1546,7 @@
     <title lang="zh">实况录像-2026年世界职业拳王争霸赛 11</title>
   </programme>
   <programme start="20261010095800 +0800" stop="20261010112800 +0800" channel="cctv5plus">
-    <title lang="zh">2026中国之队重庆国际足球邀请赛-中国队-巴勒斯坦队（4K）</title>
+    <title lang="zh">实况录像-2026年亚运会 男足铜牌赛</title>
   </programme>
   <programme start="20261010112800 +0800" stop="20261010130000 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年亚运会 体操单项比赛1</title>
@@ -1563,8 +1563,17 @@
   <programme start="20261010173000 +0800" stop="20261010190000 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年亚运会 男篮决赛</title>
   </programme>
-  <programme start="20261010190000 +0800" stop="20261010230300 +0800" channel="cctv5plus">
-    <title lang="zh">2026年中国网球公开赛-女单、女双半决赛</title>
+  <programme start="20261010190000 +0800" stop="20261010200000 +0800" channel="cctv5plus">
+    <title lang="zh">WTT中国大满贯2026-男双决赛</title>
+  </programme>
+  <programme start="20261010200000 +0800" stop="20261010213000 +0800" channel="cctv5plus">
+    <title lang="zh">2026中国足球超级联赛-第27轮（成都蓉城—天津津门虎）</title>
+  </programme>
+  <programme start="20261010213000 +0800" stop="20261010220500 +0800" channel="cctv5plus">
+    <title lang="zh">实况录像(高清体育)-2026年国际篮联U23三人篮球世界杯（4K）</title>
+  </programme>
+  <programme start="20261010220500 +0800" stop="20261010230300 +0800" channel="cctv5plus">
+    <title lang="zh">实况录像-2026年亚运会 跳水比赛2</title>
   </programme>
   <programme start="20261010230300 +0800" stop="20261011003000 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年亚运会 体操单项比赛2</title>
@@ -1611,17 +1620,14 @@
   <programme start="20261011180700 +0800" stop="20261011193000 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年亚运会 女排决赛</title>
   </programme>
-  <programme start="20261011193000 +0800" stop="20261011214000 +0800" channel="cctv5plus">
-    <title lang="zh">2026中国足球超级联赛-第27轮（重庆铜梁龙-山东泰山）</title>
-  </programme>
-  <programme start="20261011214000 +0800" stop="20261011230500 +0800" channel="cctv5plus">
-    <title lang="zh">实况录像-2026年亚运会 男篮决赛</title>
-  </programme>
-  <programme start="20261011230500 +0800" stop="20261011233000 +0800" channel="cctv5plus">
+  <programme start="20261011193000 +0800" stop="20261011200000 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年世界艺术体操锦标赛 25分钟版</title>
   </programme>
-  <programme start="20261011233000 +0800" stop="20261012013000 +0800" channel="cctv5plus">
-    <title lang="zh">2026/2027德国足球甲级联赛-第5轮（弗赖堡-沙尔克04）</title>
+  <programme start="20261011200000 +0800" stop="20261011221000 +0800" channel="cctv5plus">
+    <title lang="zh">2026年世界一级方程式锦标赛-新加坡大奖赛正赛</title>
+  </programme>
+  <programme start="20261011221000 +0800" stop="20261012001000 +0800" channel="cctv5plus">
+    <title lang="zh">2026/2027西班牙足球甲级联赛-第8轮（皇家社会-拉科鲁尼亚）</title>
   </programme>
   <programme start="20261009002300 +0800" stop="20261009015100 +0800" channel="cctv6">
     <title lang="zh">欠我十万零五千</title>
