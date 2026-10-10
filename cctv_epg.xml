@@ -252,25 +252,25 @@
   <programme start="20261011190000 +0800" stop="20261011193900 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20261011193900 +0800" stop="20261011195800 +0800" channel="cctv1">
+  <programme start="20261011193900 +0800" stop="20261011195900 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20261011195800 +0800" stop="20261011200200 +0800" channel="cctv1">
+  <programme start="20261011195900 +0800" stop="20261011200200 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-第5集</title>
   </programme>
-  <programme start="20261011200200 +0800" stop="20261011205300 +0800" channel="cctv1">
-    <title lang="zh">伟大的长征5/60</title>
+  <programme start="20261011200200 +0800" stop="20261011205200 +0800" channel="cctv1">
+    <title lang="zh">伟大的长征第5集</title>
   </programme>
-  <programme start="20261011205300 +0800" stop="20261011205600 +0800" channel="cctv1">
+  <programme start="20261011205200 +0800" stop="20261011205500 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-第6集</title>
   </programme>
-  <programme start="20261011205600 +0800" stop="20261011214600 +0800" channel="cctv1">
-    <title lang="zh">伟大的长征6/60</title>
+  <programme start="20261011205500 +0800" stop="20261011214500 +0800" channel="cctv1">
+    <title lang="zh">伟大的长征第6集</title>
   </programme>
-  <programme start="20261011214600 +0800" stop="20261011215300 +0800" channel="cctv1">
+  <programme start="20261011214500 +0800" stop="20261011215200 +0800" channel="cctv1">
     <title lang="zh">三餐四季-宣传片</title>
   </programme>
-  <programme start="20261011215300 +0800" stop="20261011220000 +0800" channel="cctv1">
+  <programme start="20261011215200 +0800" stop="20261011220000 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
   </programme>
   <programme start="20261011220000 +0800" stop="20261011223600 +0800" channel="cctv1">
@@ -850,7 +850,7 @@
     <title lang="zh">开门大吉-2026-32</title>
   </programme>
   <programme start="20261011192400 +0800" stop="20261011193000 +0800" channel="cctv3">
-    <title lang="zh">第二届丝路之星国际音乐大赛-5  先导片</title>
+    <title lang="zh">第二届丝路之星国际音乐大赛-5 先导片</title>
   </programme>
   <programme start="20261011193000 +0800" stop="20261011212100 +0800" channel="cctv3">
     <title lang="zh">第二届丝路之星国际音乐大赛-5</title>
@@ -2338,13 +2338,13 @@
     <title lang="zh">本集提要-蒸蒸日上-第3集</title>
   </programme>
   <programme start="20261011193000 +0800" stop="20261011202500 +0800" channel="cctv8">
-    <title lang="zh">蒸蒸日上3/22</title>
+    <title lang="zh">蒸蒸日上第3集</title>
   </programme>
   <programme start="20261011202500 +0800" stop="20261011203000 +0800" channel="cctv8">
     <title lang="zh">本集提要-蒸蒸日上-第4集</title>
   </programme>
   <programme start="20261011203000 +0800" stop="20261011212400 +0800" channel="cctv8">
-    <title lang="zh">蒸蒸日上4/22</title>
+    <title lang="zh">蒸蒸日上第4集</title>
   </programme>
   <programme start="20261011212400 +0800" stop="20261011212900 +0800" channel="cctv8">
     <title lang="zh">本集提要-兰香如故-第47集</title>
@@ -2356,7 +2356,7 @@
     <title lang="zh">本集提要-无可替代-第13集</title>
   </programme>
   <programme start="20261011222100 +0800" stop="20261011231100 +0800" channel="cctv8">
-    <title lang="zh">无可替代13/19</title>
+    <title lang="zh">无可替代第13集</title>
   </programme>
   <programme start="20261011231100 +0800" stop="20261011235700 +0800" channel="cctv8">
     <title lang="zh">冬去春来第8集</title>
@@ -4036,7 +4036,7 @@
     <title lang="zh">精彩音乐汇-我的爱对你说-2026-444</title>
   </programme>
   <programme start="20261011192400 +0800" stop="20261011193000 +0800" channel="cctv15">
-    <title lang="zh">第二届丝路之星国际音乐大赛-5  先导片</title>
+    <title lang="zh">第二届丝路之星国际音乐大赛-5 先导片</title>
   </programme>
   <programme start="20261011193000 +0800" stop="20261011212400 +0800" channel="cctv15">
     <title lang="zh">第二届丝路之星国际音乐大赛-5</title>
