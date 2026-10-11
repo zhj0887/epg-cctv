@@ -495,8 +495,128 @@
   <programme start="20261011224000 +0800" stop="20261011230800 +0800" channel="cctv2">
     <title lang="zh">2026精品财经纪录-中国民居第三季-2</title>
   </programme>
-  <programme start="20261011230800 +0800" stop="20261013000600 +0800" channel="cctv2">
+  <programme start="20261011230800 +0800" stop="20261012001200 +0800" channel="cctv2">
     <title lang="zh">一槌定音-2026-41</title>
+  </programme>
+  <programme start="20261012001200 +0800" stop="20261012011400 +0800" channel="cctv2">
+    <title lang="zh">职场健康课-2026-41</title>
+  </programme>
+  <programme start="20261012011400 +0800" stop="20261012020000 +0800" channel="cctv2">
+    <title lang="zh">中国经济大讲堂-2026-39</title>
+  </programme>
+  <programme start="20261012020000 +0800" stop="20261012022800 +0800" channel="cctv2">
+    <title lang="zh">精品财经纪录-晋在眼前1</title>
+  </programme>
+  <programme start="20261012022800 +0800" stop="20261012025600 +0800" channel="cctv2">
+    <title lang="zh">精品财经纪录-晋在眼前2</title>
+  </programme>
+  <programme start="20261012025600 +0800" stop="20261012032600 +0800" channel="cctv2">
+    <title lang="zh">精品财经纪录-又见三星堆2</title>
+  </programme>
+  <programme start="20261012032600 +0800" stop="20261012035600 +0800" channel="cctv2">
+    <title lang="zh">精品财经纪录-又见三星堆3</title>
+  </programme>
+  <programme start="20261012035600 +0800" stop="20261012042000 +0800" channel="cctv2">
+    <title lang="zh">2026精品财经纪录-中国民居第三季-1</title>
+  </programme>
+  <programme start="20261012042000 +0800" stop="20261012044700 +0800" channel="cctv2">
+    <title lang="zh">2026精品财经纪录-神奇的嫦娥五号1</title>
+  </programme>
+  <programme start="20261012044700 +0800" stop="20261012053100 +0800" channel="cctv2">
+    <title lang="zh">对话-2026-39</title>
+  </programme>
+  <programme start="20261012053100 +0800" stop="20261012055900 +0800" channel="cctv2">
+    <title lang="zh">生财有道-2026-10-9</title>
+  </programme>
+  <programme start="20261012055900 +0800" stop="20261012070000 +0800" channel="cctv2">
+    <title lang="zh">经济信息联播</title>
+  </programme>
+  <programme start="20261012070000 +0800" stop="20261012090000 +0800" channel="cctv2">
+    <title lang="zh">第一时间</title>
+  </programme>
+  <programme start="20261012090000 +0800" stop="20261012093000 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012093000 +0800" stop="20261012100000 +0800" channel="cctv2">
+    <title lang="zh">财经调查-2026-10-11</title>
+  </programme>
+  <programme start="20261012100000 +0800" stop="20261012103000 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012103000 +0800" stop="20261012110000 +0800" channel="cctv2">
+    <title lang="zh">经济半小时</title>
+  </programme>
+  <programme start="20261012110000 +0800" stop="20261012113100 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012113100 +0800" stop="20261012120000 +0800" channel="cctv2">
+    <title lang="zh">生财有道-2026-10-9</title>
+  </programme>
+  <programme start="20261012120000 +0800" stop="20261012130000 +0800" channel="cctv2">
+    <title lang="zh">天下财经</title>
+  </programme>
+  <programme start="20261012130000 +0800" stop="20261012133100 +0800" channel="cctv2">
+    <title lang="zh">财经调查-2026-10-11</title>
+  </programme>
+  <programme start="20261012133100 +0800" stop="20261012140000 +0800" channel="cctv2">
+    <title lang="zh">精品财经汇-2026-725</title>
+  </programme>
+  <programme start="20261012140000 +0800" stop="20261012143000 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012143000 +0800" stop="20261012150000 +0800" channel="cctv2">
+    <title lang="zh">消费主张</title>
+  </programme>
+  <programme start="20261012150000 +0800" stop="20261012153000 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012153000 +0800" stop="20261012160000 +0800" channel="cctv2">
+    <title lang="zh">回家吃饭-2026-206</title>
+  </programme>
+  <programme start="20261012160000 +0800" stop="20261012170000 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012170000 +0800" stop="20261012173300 +0800" channel="cctv2">
+    <title lang="zh">正点财经</title>
+  </programme>
+  <programme start="20261012173300 +0800" stop="20261012175000 +0800" channel="cctv2">
+    <title lang="zh">皖美风味4-17分版</title>
+  </programme>
+  <programme start="20261012175000 +0800" stop="20261012181000 +0800" channel="cctv2">
+    <title lang="zh">2026精品财经纪录-小城大食3</title>
+  </programme>
+  <programme start="20261012181000 +0800" stop="20261012183000 +0800" channel="cctv2">
+    <title lang="zh">2026精品财经纪录-小城大食4</title>
+  </programme>
+  <programme start="20261012183000 +0800" stop="20261012190000 +0800" channel="cctv2">
+    <title lang="zh">回家吃饭-2026-207</title>
+  </programme>
+  <programme start="20261012190000 +0800" stop="20261012193000 +0800" channel="cctv2">
+    <title lang="zh">生财有道-2026-10-12</title>
+  </programme>
+  <programme start="20261012193000 +0800" stop="20261012200000 +0800" channel="cctv2">
+    <title lang="zh">消费主张</title>
+  </programme>
+  <programme start="20261012200000 +0800" stop="20261012203000 +0800" channel="cctv2">
+    <title lang="zh">经济半小时</title>
+  </programme>
+  <programme start="20261012203000 +0800" stop="20261012213000 +0800" channel="cctv2">
+    <title lang="zh">经济信息联播</title>
+  </programme>
+  <programme start="20261012213000 +0800" stop="20261012215600 +0800" channel="cctv2">
+    <title lang="zh">央视财经评论-2026-10-12</title>
+  </programme>
+  <programme start="20261012215600 +0800" stop="20261012222700 +0800" channel="cctv2">
+    <title lang="zh">精品财经纪录-大唐盛世千年文物1</title>
+  </programme>
+  <programme start="20261012222700 +0800" stop="20261012225100 +0800" channel="cctv2">
+    <title lang="zh">2026精品财经纪录-中国民居第三季-1</title>
+  </programme>
+  <programme start="20261012225100 +0800" stop="20261012231700 +0800" channel="cctv2">
+    <title lang="zh">2026精品财经纪录-中国民居第三季-2</title>
+  </programme>
+  <programme start="20261012231700 +0800" stop="20261013000600 +0800" channel="cctv2">
+    <title lang="zh">对话-2026-39</title>
   </programme>
   <programme start="20261013000600 +0800" stop="20261013003600 +0800" channel="cctv2">
     <title lang="zh">经济半小时</title>
