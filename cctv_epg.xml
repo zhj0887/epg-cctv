@@ -264,22 +264,22 @@
   <programme start="20261013190000 +0800" stop="20261013193900 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20261013193900 +0800" stop="20261013200100 +0800" channel="cctv1">
+  <programme start="20261013193900 +0800" stop="20261013200000 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20261013200100 +0800" stop="20261013200400 +0800" channel="cctv1">
+  <programme start="20261013200000 +0800" stop="20261013200400 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-9/60</title>
   </programme>
-  <programme start="20261013200400 +0800" stop="20261013205400 +0800" channel="cctv1">
+  <programme start="20261013200400 +0800" stop="20261013205500 +0800" channel="cctv1">
     <title lang="zh">伟大的长征9/60</title>
   </programme>
-  <programme start="20261013205400 +0800" stop="20261013205500 +0800" channel="cctv1">
+  <programme start="20261013205500 +0800" stop="20261013205800 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-10/60</title>
   </programme>
-  <programme start="20261013205500 +0800" stop="20261013214300 +0800" channel="cctv1">
+  <programme start="20261013205800 +0800" stop="20261013214600 +0800" channel="cctv1">
     <title lang="zh">伟大的长征10/60</title>
   </programme>
-  <programme start="20261013214300 +0800" stop="20261013220000 +0800" channel="cctv1">
+  <programme start="20261013214600 +0800" stop="20261013220000 +0800" channel="cctv1">
     <title lang="zh">三餐四季-宣传片</title>
   </programme>
   <programme start="20261013220000 +0800" stop="20261013223600 +0800" channel="cctv1">
