@@ -255,10 +255,10 @@
   <programme start="20261020193800 +0800" stop="20261020200600 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20261020200600 +0800" stop="20261020210000 +0800" channel="cctv1">
+  <programme start="20261020200600 +0800" stop="20261020205900 +0800" channel="cctv1">
     <title lang="zh">伟大远征-6</title>
   </programme>
-  <programme start="20261020210000 +0800" stop="20261020210400 +0800" channel="cctv1">
+  <programme start="20261020205900 +0800" stop="20261020210400 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-第18集</title>
   </programme>
   <programme start="20261020210400 +0800" stop="20261020220000 +0800" channel="cctv1">
@@ -837,10 +837,10 @@
   <programme start="20261020112600 +0800" stop="20261020130000 +0800" channel="cctv3">
     <title lang="zh">开门大吉-2026-42</title>
   </programme>
-  <programme start="20261020130000 +0800" stop="20261020132400 +0800" channel="cctv3">
+  <programme start="20261020130000 +0800" stop="20261020132600 +0800" channel="cctv3">
     <title lang="zh">文化十分-2026-211</title>
   </programme>
-  <programme start="20261020132400 +0800" stop="20261020145500 +0800" channel="cctv3">
+  <programme start="20261020132600 +0800" stop="20261020145500 +0800" channel="cctv3">
     <title lang="zh">2026重阳特别节目-江天秋光颂重阳</title>
   </programme>
   <programme start="20261020145500 +0800" stop="20261020160400 +0800" channel="cctv3">
@@ -4453,7 +4453,7 @@
     <title lang="zh">长征路上新乡村(10分钟版）-2</title>
   </programme>
   <programme start="20261019210700 +0800" stop="20261019213800 +0800" channel="cctv17">
-    <title lang="zh">三农群英汇-2026-333</title>
+    <title lang="zh">三农群英汇-2026-334</title>
   </programme>
   <programme start="20261019213800 +0800" stop="20261019230200 +0800" channel="cctv17">
     <title lang="zh">丰收中国之乡村趣味运动会-8</title>
@@ -4483,7 +4483,7 @@
     <title lang="zh">中国三农报道</title>
   </programme>
   <programme start="20261020082000 +0800" stop="20261020085100 +0800" channel="cctv17">
-    <title lang="zh">三农群英汇-2026-333</title>
+    <title lang="zh">三农群英汇-2026-334</title>
   </programme>
   <programme start="20261020085100 +0800" stop="20261020101600 +0800" channel="cctv17">
     <title lang="zh">丰收中国之乡村趣味运动会-8</title>
@@ -4537,7 +4537,7 @@
     <title lang="zh">长征路上新乡村(10分钟版）-4</title>
   </programme>
   <programme start="20261020210700 +0800" stop="20261020213800 +0800" channel="cctv17">
-    <title lang="zh">三农群英汇-2026-334</title>
+    <title lang="zh">三农群英汇-2026-333</title>
   </programme>
   <programme start="20261020213800 +0800" stop="20261020230200 +0800" channel="cctv17">
     <title lang="zh">共富经-2026-134-创富记4</title>
@@ -4546,7 +4546,7 @@
     <title lang="zh">乡理乡亲-2026-67</title>
   </programme>
   <programme start="20261020235300 +0800" stop="20261021002300 +0800" channel="cctv17">
-    <title lang="zh">三农群英汇-2026-334</title>
+    <title lang="zh">三农群英汇-2026-333</title>
   </programme>
   <programme start="20261021002300 +0800" stop="20261021014900 +0800" channel="cctv17">
     <title lang="zh">共富经-2026-134-创富记4</title>
@@ -4567,7 +4567,7 @@
     <title lang="zh">中国三农报道</title>
   </programme>
   <programme start="20261021082000 +0800" stop="20261021085100 +0800" channel="cctv17">
-    <title lang="zh">三农群英汇-2026-334</title>
+    <title lang="zh">三农群英汇-2026-333</title>
   </programme>
   <programme start="20261021085100 +0800" stop="20261021101600 +0800" channel="cctv17">
     <title lang="zh">共富经-2026-134-创富记4</title>
