@@ -858,17 +858,23 @@
   <programme start="20261029112700 +0800" stop="20261029130000 +0800" channel="cctv3">
     <title lang="zh">越战越勇-2026-42</title>
   </programme>
-  <programme start="20261029130000 +0800" stop="20261029132200 +0800" channel="cctv3">
+  <programme start="20261029130000 +0800" stop="20261029132500 +0800" channel="cctv3">
     <title lang="zh">文化十分-2026-218</title>
   </programme>
-  <programme start="20261029132200 +0800" stop="20261029151700 +0800" channel="cctv3">
+  <programme start="20261029132500 +0800" stop="20261029151700 +0800" channel="cctv3">
     <title lang="zh">第二届丝路之星国际音乐大赛-5</title>
   </programme>
-  <programme start="20261029151700 +0800" stop="20261029155200 +0800" channel="cctv3">
+  <programme start="20261029151700 +0800" stop="20261029152300 +0800" channel="cctv3">
+    <title lang="zh">综艺喜乐汇-2026-1039 踏地为节</title>
+  </programme>
+  <programme start="20261029152300 +0800" stop="20261029155600 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-1380 多彩少年 7</title>
   </programme>
-  <programme start="20261029155200 +0800" stop="20261029170400 +0800" channel="cctv3">
-    <title lang="zh">星光艺起唱-2</title>
+  <programme start="20261029155600 +0800" stop="20261029160200 +0800" channel="cctv3">
+    <title lang="zh">综艺喜乐汇-2026-1036 喜雨</title>
+  </programme>
+  <programme start="20261029160200 +0800" stop="20261029170400 +0800" channel="cctv3">
+    <title lang="zh">远山之约（蜀山篇）-3</title>
   </programme>
   <programme start="20261029170400 +0800" stop="20261029180500 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-532</title>
