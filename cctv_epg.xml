@@ -246,16 +246,16 @@
   <programme start="20261101200300 +0800" stop="20261101205300 +0800" channel="cctv1">
     <title lang="zh">伟大的长征第38集</title>
   </programme>
-  <programme start="20261101205300 +0800" stop="20261101205500 +0800" channel="cctv1">
+  <programme start="20261101205300 +0800" stop="20261101205600 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-第39集</title>
   </programme>
-  <programme start="20261101205500 +0800" stop="20261101214400 +0800" channel="cctv1">
+  <programme start="20261101205600 +0800" stop="20261101214500 +0800" channel="cctv1">
     <title lang="zh">伟大的长征第39集</title>
   </programme>
-  <programme start="20261101214400 +0800" stop="20261101215200 +0800" channel="cctv1">
+  <programme start="20261101214500 +0800" stop="20261101215100 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
   </programme>
-  <programme start="20261101215200 +0800" stop="20261101220000 +0800" channel="cctv1">
+  <programme start="20261101215100 +0800" stop="20261101220000 +0800" channel="cctv1">
     <title lang="zh">三餐四季-宣传片</title>
   </programme>
   <programme start="20261101220000 +0800" stop="20261101223500 +0800" channel="cctv1">
@@ -1311,20 +1311,11 @@
   <programme start="20261031132800 +0800" stop="20261031140000 +0800" channel="cctv5">
     <title lang="zh">实况录像-2026年世界体操锦标赛 25分钟版</title>
   </programme>
-  <programme start="20261031140000 +0800" stop="20261031162500 +0800" channel="cctv5">
+  <programme start="20261031140000 +0800" stop="20261031184000 +0800" channel="cctv5">
     <title lang="zh">2026/2027赛季斯诺克国际锦标赛-第1轮</title>
   </programme>
-  <programme start="20261031162500 +0800" stop="20261031163000 +0800" channel="cctv5">
-    <title lang="zh">健身动起来</title>
-  </programme>
-  <programme start="20261031163000 +0800" stop="20261031180000 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第6轮 浙江稠州金租—上海久事</title>
-  </programme>
-  <programme start="20261031180000 +0800" stop="20261031183000 +0800" channel="cctv5">
+  <programme start="20261031184000 +0800" stop="20261031190000 +0800" channel="cctv5">
     <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20261031183000 +0800" stop="20261031190000 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026年亚残运会 比赛 1</title>
   </programme>
   <programme start="20261031190000 +0800" stop="20261031225500 +0800" channel="cctv5">
     <title lang="zh">WTT蒙彼利埃冠军赛2026-1/4决赛</title>
