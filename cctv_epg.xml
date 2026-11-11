@@ -258,10 +258,10 @@
   <programme start="20261112193800 +0800" stop="20261112200500 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20261112200500 +0800" stop="20261112210000 +0800" channel="cctv1">
+  <programme start="20261112200500 +0800" stop="20261112205900 +0800" channel="cctv1">
     <title lang="zh">孙中山-5</title>
   </programme>
-  <programme start="20261112210000 +0800" stop="20261112210300 +0800" channel="cctv1">
+  <programme start="20261112205900 +0800" stop="20261112210300 +0800" channel="cctv1">
     <title lang="zh">前情提要-伟大的长征-第56集</title>
   </programme>
   <programme start="20261112210300 +0800" stop="20261112220000 +0800" channel="cctv1">
@@ -2704,7 +2704,7 @@
     <title lang="zh">魅力万象2026-315</title>
   </programme>
   <programme start="20261112022300 +0800" stop="20261112025300 +0800" channel="cctvjilu">
-    <title lang="zh">活力·源2026-315</title>
+    <title lang="zh">活力·源2026-334</title>
   </programme>
   <programme start="20261112025300 +0800" stop="20261112035400 +0800" channel="cctvjilu">
     <title lang="zh">特别呈现2026-315</title>
@@ -2713,7 +2713,7 @@
     <title lang="zh">9视频2026-315</title>
   </programme>
   <programme start="20261112041100 +0800" stop="20261112044600 +0800" channel="cctvjilu">
-    <title lang="zh">活力·源2026-315</title>
+    <title lang="zh">活力·源2026-334</title>
   </programme>
   <programme start="20261112044600 +0800" stop="20261112054600 +0800" channel="cctvjilu">
     <title lang="zh">故事中国2026-277</title>
@@ -2728,7 +2728,7 @@
     <title lang="zh">9视频2026-315</title>
   </programme>
   <programme start="20261112075900 +0800" stop="20261112083100 +0800" channel="cctvjilu">
-    <title lang="zh">活力·源2026-315</title>
+    <title lang="zh">活力·源2026-334</title>
   </programme>
   <programme start="20261112083100 +0800" stop="20261112092700 +0800" channel="cctvjilu">
     <title lang="zh">特别呈现2026-315</title>
