@@ -1432,7 +1432,7 @@
     <title lang="zh">2026年世界职业拳王争霸赛-2026.11..22</title>
   </programme>
   <programme start="20261122143000 +0800" stop="20261122165500 +0800" channel="cctv5">
-    <title lang="zh">2026/2027赛季短道速滑世界巡回赛(韩国站)-男子1000米决赛等</title>
+    <title lang="zh">2026/2027赛季短道速滑世界巡回赛(韩国首尔站)-男子1000米决赛等</title>
   </programme>
   <programme start="20261122165500 +0800" stop="20261122170000 +0800" channel="cctv5">
     <title lang="zh">健身动起来</title>
@@ -1444,16 +1444,16 @@
     <title lang="zh">体育新闻</title>
   </programme>
   <programme start="20261122183000 +0800" stop="20261122200000 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026年ATP1000男子网球大师赛年终总决赛 半决赛（录播）</title>
+    <title lang="zh">实况录像-2026年ATP年终总决赛 半决赛（录播）</title>
   </programme>
   <programme start="20261122200000 +0800" stop="20261122203000 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026/2027赛季速度滑冰世界杯 日本站（录播）2</title>
+    <title lang="zh">实况录像-2026/2027赛季速度滑冰世界杯 日本带广站（录播）2</title>
   </programme>
   <programme start="20261122203000 +0800" stop="20261122223500 +0800" channel="cctv5">
     <title lang="zh">2026国际足联U17世界杯-小组赛C组第2轮（丹麦—澳大利亚）</title>
   </programme>
   <programme start="20261122223500 +0800" stop="20261123003500 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026年世界体操锦标赛 女子团体决赛</title>
+    <title lang="zh">实况录像-第73届澳门格兰披治大赛车 第二回合 （录播）</title>
   </programme>
   <programme start="20261120000500 +0800" stop="20261120010600 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年世界赛艇锦标赛 2</title>
@@ -2287,13 +2287,13 @@
     <title lang="zh">本集提要-两京十五日-第3集</title>
   </programme>
   <programme start="20261121193000 +0800" stop="20261121202500 +0800" channel="cctv8">
-    <title lang="zh">两京十五日3/26</title>
+    <title lang="zh">两京十五日第3集</title>
   </programme>
   <programme start="20261121202500 +0800" stop="20261121203000 +0800" channel="cctv8">
     <title lang="zh">本集提要-两京十五日-第4集</title>
   </programme>
   <programme start="20261121203000 +0800" stop="20261121212700 +0800" channel="cctv8">
-    <title lang="zh">两京十五日4/26</title>
+    <title lang="zh">两京十五日第4集</title>
   </programme>
   <programme start="20261121212700 +0800" stop="20261121213200 +0800" channel="cctv8">
     <title lang="zh">本集提要-小城大事-第23集</title>
@@ -2499,8 +2499,89 @@
   <programme start="20261120230600 +0800" stop="20261120232700 +0800" channel="cctvjilu">
     <title lang="zh">9视频2026-324</title>
   </programme>
-  <programme start="20261120232700 +0800" stop="20261122003100 +0800" channel="cctvjilu">
+  <programme start="20261120232700 +0800" stop="20261121003100 +0800" channel="cctvjilu">
     <title lang="zh">寰宇视野2026-327</title>
+  </programme>
+  <programme start="20261121003100 +0800" stop="20261121012700 +0800" channel="cctvjilu">
+    <title lang="zh">全景自然2026-324</title>
+  </programme>
+  <programme start="20261121012700 +0800" stop="20261121022300 +0800" channel="cctvjilu">
+    <title lang="zh">魅力万象2026-324</title>
+  </programme>
+  <programme start="20261121022300 +0800" stop="20261121025300 +0800" channel="cctvjilu">
+    <title lang="zh">活力·源2026-206</title>
+  </programme>
+  <programme start="20261121025300 +0800" stop="20261121035400 +0800" channel="cctvjilu">
+    <title lang="zh">特别呈现2026-324</title>
+  </programme>
+  <programme start="20261121035400 +0800" stop="20261121041100 +0800" channel="cctvjilu">
+    <title lang="zh">9视频2026-324</title>
+  </programme>
+  <programme start="20261121041100 +0800" stop="20261121044600 +0800" channel="cctvjilu">
+    <title lang="zh">活力·源2026-206</title>
+  </programme>
+  <programme start="20261121044600 +0800" stop="20261121054600 +0800" channel="cctvjilu">
+    <title lang="zh">故事中国2026-285</title>
+  </programme>
+  <programme start="20261121054600 +0800" stop="20261121064700 +0800" channel="cctvjilu">
+    <title lang="zh">全景自然2026-324</title>
+  </programme>
+  <programme start="20261121064700 +0800" stop="20261121074300 +0800" channel="cctvjilu">
+    <title lang="zh">魅力万象2026-324</title>
+  </programme>
+  <programme start="20261121074300 +0800" stop="20261121075900 +0800" channel="cctvjilu">
+    <title lang="zh">9视频2026-324</title>
+  </programme>
+  <programme start="20261121075900 +0800" stop="20261121093300 +0800" channel="cctvjilu">
+    <title lang="zh">纪录影院2026-45</title>
+  </programme>
+  <programme start="20261121093300 +0800" stop="20261121103200 +0800" channel="cctvjilu">
+    <title lang="zh">全景自然2026-227</title>
+  </programme>
+  <programme start="20261121103200 +0800" stop="20261121113000 +0800" channel="cctvjilu">
+    <title lang="zh">魅力万象2026-227</title>
+  </programme>
+  <programme start="20261121113000 +0800" stop="20261121123200 +0800" channel="cctvjilu">
+    <title lang="zh">全景自然2026-228</title>
+  </programme>
+  <programme start="20261121123200 +0800" stop="20261121133100 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-302</title>
+  </programme>
+  <programme start="20261121133100 +0800" stop="20261121143000 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-303</title>
+  </programme>
+  <programme start="20261121143000 +0800" stop="20261121152800 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-304</title>
+  </programme>
+  <programme start="20261121152800 +0800" stop="20261121162700 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-305</title>
+  </programme>
+  <programme start="20261121162700 +0800" stop="20261121172800 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-306</title>
+  </programme>
+  <programme start="20261121172800 +0800" stop="20261121182700 +0800" channel="cctvjilu">
+    <title lang="zh">全景自然2026-325</title>
+  </programme>
+  <programme start="20261121182700 +0800" stop="20261121192700 +0800" channel="cctvjilu">
+    <title lang="zh">魅力万象2026-325</title>
+  </programme>
+  <programme start="20261121192700 +0800" stop="20261121200000 +0800" channel="cctvjilu">
+    <title lang="zh">活力·源2026-325</title>
+  </programme>
+  <programme start="20261121200000 +0800" stop="20261121210000 +0800" channel="cctvjilu">
+    <title lang="zh">特别呈现2026-325</title>
+  </programme>
+  <programme start="20261121210000 +0800" stop="20261121220400 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-328</title>
+  </programme>
+  <programme start="20261121220400 +0800" stop="20261121230600 +0800" channel="cctvjilu">
+    <title lang="zh">故事中国2026-286</title>
+  </programme>
+  <programme start="20261121230600 +0800" stop="20261121232700 +0800" channel="cctvjilu">
+    <title lang="zh">9视频2026-325</title>
+  </programme>
+  <programme start="20261121232700 +0800" stop="20261122003100 +0800" channel="cctvjilu">
+    <title lang="zh">寰宇视野2026-328</title>
   </programme>
   <programme start="20261122003100 +0800" stop="20261122012700 +0800" channel="cctvjilu">
     <title lang="zh">全景自然2026-325</title>
